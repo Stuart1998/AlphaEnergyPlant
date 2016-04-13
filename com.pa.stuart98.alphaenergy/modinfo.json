@@ -1,0 +1,20 @@
+{
+    "context": "client",
+    "identifier": "com.pa.stuart98.alphaenergy",
+    "display_name": "Alpha Energy Plant",
+    "description": "Replaces the energy plant model with one from the Alpha.",
+    "author": "Stuart98",
+    "version": "1.5",
+    "signature": "not yet implemented",
+    "priority": 100,
+    "id": "alphaenergy",
+    "icon": "http://pamods.github.io/icons/alphaenergy.jpg",
+    "forum": "https://forums.uberent.com/threads/rel-alpha-energy-plant.59545/",
+    "category": [
+        "Model",
+        "Energy Plant"
+    ],
+    "date": "2016/04/13",
+    "build": "89755",
+    "enabled": true
+}

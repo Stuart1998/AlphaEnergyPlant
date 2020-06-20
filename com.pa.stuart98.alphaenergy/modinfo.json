@@ -4,7 +4,7 @@
     "display_name": "Alpha Energy Plant",
     "description": "Replaces the energy plant model with one from the Alpha.",
     "author": "Stuart98",
-    "version": "1.5",
+    "version": "2.0",
     "signature": "not yet implemented",
     "priority": 100,
     "id": "alphaenergy",
@@ -14,7 +14,7 @@
         "Model",
         "Energy Plant"
     ],
-    "date": "2019/03/20",
-    "build": "113953",
+    "date": "2020/06/20",
+    "build": "114438",
     "enabled": true
 }

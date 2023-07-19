@@ -4,17 +4,19 @@
     "display_name": "Alpha Energy Plant",
     "description": "Replaces the energy plant model with one from the Alpha.",
     "author": "Stuart98",
-    "version": "2.0",
-    "signature": "not yet implemented",
+    "version": "3.0",
+    "signature": "wow it so matters what i put here!",
     "priority": 100,
     "id": "alphaenergy",
     "icon": "http://pamods.github.io/icons/alphaenergy.jpg",
     "forum": "https://forums.uberent.com/threads/rel-alpha-energy-plant.59545/",
     "category": [
         "Model",
-        "Energy Plant"
+        "Energy Plant",
+		"GFX",
+		"Graphics"
     ],
-    "date": "2020/06/20",
-    "build": "114438",
+    "date": "2023/07/19",
+    "build": "116982",
     "enabled": true
 }
